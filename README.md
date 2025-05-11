@@ -42,10 +42,9 @@ Bu Python script'i, Türkiye Cumhuriyeti Millî Eğitim Bakanlığı'nın (MEB) 
     -   İndirdiğiniz `chromedriver.exe` (Windows) veya `chromedriver` (Linux/macOS) dosyasını Python script'inizin bulunduğu dizine kopyalayın veya sisteminizin PATH ortam değişkenine ekleyin.
 
 ## Kullanım
-
-    ```bash
+```bash
     python app.py
-    ```
+ ```
 Script çalışmaya başladığında, tahmini toplam sayfa sayısını gösterecek ve ardından verileri çekmeye başlayacaktır. İşlem sırasında konsolda ilerleme durumu ve olası hatalar hakkında bilgi mesajları görüntülenecektir.
 
 **Script İçindeki Ayarlanabilir Parametreler:**
