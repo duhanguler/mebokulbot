@@ -34,7 +34,6 @@ Bu Python script'i, Türkiye Cumhuriyeti Millî Eğitim Bakanlığı'nın (MEB) 
     ```bash
     pip install selenium
     ```
-    (Eğer bir `requirements.txt` dosyası eklerseniz, `pip install -r requirements.txt` komutu daha pratik olur.)
 
 3.  **ChromeDriver'ı İndirin**:
     -   Mevcut Google Chrome versiyonunuzu kontrol edin (`chrome://settings/help`).
